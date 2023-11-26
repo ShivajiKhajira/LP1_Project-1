@@ -164,3 +164,15 @@ If you encounter any issues or have suggestions for improvements, please open a 
 ##License
  
 This project is licensed under the MIT  License
+
+
+REPORT FINDINGS:
+1. It is evident that the funding is higher in 2020 and 2021. This could be linked to the pandemic that was experienced in these years (Covid-19). 
+2.In 2018 the funding that is quite prevalent is Angel, debt financing and Equity at an almost equal share. This means that the startup ecosystem was quite balanced, with not much of start ups struggling.
+   In 2019, there is a good share of seed and series funding which is more of a second or third etc round of funding. this could point towards the start ups scaling up and thus the need for more funding. 
+   In 2020, we see the Debt financing creeping back in indicative of a struggle in the start ups which could be attributed to the pandemic that was being faced.
+3. The trend shows a general increase in funding from 2019 onwards. This could be attributed to the effects of Covid-19. Also, notably we had very few funded companies in 2019, a slight drop from the companies funded in 2018. this could have been attributed to the fact that the funding in 2019 was more of a seed and series(repeat funding to grow the business for shares.)
+4. In 2018, it's evident that the highest funding was for equity. 
+For 2019 and 2020, there was no direct corelation between the outlier funding and the stage of funding. there was also no direct relation to the sectors that were funded.
+
+In 2021, the outlier was in Fintech. This can be attributed to the need to embrace technology during the covid peak period. This involved embracing remote delivery of tasks amongst other tech-related demands.
